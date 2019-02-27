@@ -1,0 +1,63 @@
+-1.55   d.pts:    10   win:  1.00   X:   inf   loss:   inf   1X:  1.00   X2:   inf   2goals:  1.67
+-1.50   d.pts:    14   win:  1.00   X:   inf   loss:   inf   1X:  1.00   X2:   inf   2goals:  1.56
+-1.45   d.pts:    18   win:  1.12   X:  9.00   loss:   inf   1X:  1.00   X2:  9.00   2goals:  1.64
+-1.40   d.pts:    18   win:  1.12   X:  9.00   loss:   inf   1X:  1.00   X2:  9.00   2goals:  1.64
+-1.35   d.pts:    20   win:  1.11   X: 10.00   loss:   inf   1X:  1.00   X2: 10.00   2goals:  2.00
+-1.30   d.pts:    28   win:  1.17   X:  9.33   loss: 28.00   1X:  1.04   X2:  7.00   2goals:  2.15
+-1.25   d.pts:    33   win:  1.18   X: 11.00   loss: 16.50   1X:  1.06   X2:  6.60   2goals:  2.06
+-1.20   d.pts:    41   win:  1.24   X:  8.20   loss: 13.67   1X:  1.08   X2:  5.12   2goals:  2.05
+-1.15   d.pts:    46   win:  1.24   X:  9.20   loss: 11.50   1X:  1.10   X2:  5.11   2goals:  2.09
+-1.10   d.pts:    52   win:  1.30   X:  8.67   loss:  8.67   1X:  1.13   X2:  4.33   2goals:  2.26
+-1.05   d.pts:    60   win:  1.36   X:  6.67   loss:  8.57   1X:  1.13   X2:  3.75   2goals:  2.31
+-1.00   d.pts:    64   win:  1.42   X:  6.40   loss:  7.11   1X:  1.16   X2:  3.37   2goals:  2.37
+-0.95   d.pts:    71   win:  1.48   X:  5.46   loss:  7.10   1X:  1.16   X2:  3.09   2goals:  2.54
+-0.90   d.pts:    84   win:  1.50   X:  4.94   loss:  7.64   1X:  1.15   X2:  3.00   2goals:  2.62
+-0.85   d.pts:    97   win:  1.52   X:  4.62   loss:  8.08   1X:  1.14   X2:  2.94   2goals:  2.55
+-0.80   d.pts:   109   win:  1.60   X:  4.19   loss:  7.27   1X:  1.16   X2:  2.66   2goals:  2.60
+-0.75   d.pts:   125   win:  1.69   X:  3.91   loss:  6.58   1X:  1.18   X2:  2.45   2goals:  2.84
+-0.70   d.pts:   141   win:  1.76   X:  3.71   loss:  6.13   1X:  1.19   X2:  2.31   2goals:  3.13
+-0.65   d.pts:   150   win:  1.83   X:  3.75   loss:  5.36   1X:  1.23   X2:  2.21   2goals:  3.33
+-0.60   d.pts:   166   win:  1.93   X:  3.53   loss:  5.03   1X:  1.25   X2:  2.08   2goals:  3.46
+-0.55   d.pts:   182   win:  2.12   X:  2.98   loss:  5.20   1X:  1.24   X2:  1.90   2goals:  3.87
+-0.50   d.pts:   194   win:  2.23   X:  2.94   loss:  4.73   1X:  1.27   X2:  1.81   2goals:  4.13
+-0.45   d.pts:   209   win:  2.15   X:  3.22   loss:  4.45   1X:  1.29   X2:  1.87   2goals:  4.10
+-0.40   d.pts:   215   win:  2.22   X:  3.21   loss:  4.22   1X:  1.31   X2:  1.82   2goals:  4.39
+-0.35   d.pts:   223   win:  2.23   X:  3.14   loss:  4.29   1X:  1.30   X2:  1.81   2goals:  4.55
+-0.30   d.pts:   229   win:  2.31   X:  3.23   loss:  3.88   1X:  1.35   X2:  1.76   2goals:  4.98
+-0.25   d.pts:   231   win:  2.36   X:  3.16   loss:  3.85   1X:  1.35   X2:  1.74   2goals:  5.02
+-0.20   d.pts:   227   win:  2.49   X:  2.99   loss:  3.78   1X:  1.36   X2:  1.67   2goals:  5.28
+-0.15   d.pts:   224   win:  2.46   X:  3.07   loss:  3.73   1X:  1.37   X2:  1.68   2goals:  5.33
+-0.10   d.pts:   217   win:  2.52   X:  3.01   loss:  3.68   1X:  1.37   X2:  1.66   2goals:  5.56
+-0.05   d.pts:   208   win:  2.54   X:  3.01   loss:  3.65   1X:  1.38   X2:  1.65   2goals:  5.78
+ 0.00   d.pts:   192   win:  2.43   X:  3.49   loss:  3.31   1X:  1.43   X2:  1.70   2goals:  5.65
+ 0.05   d.pts:   180   win:  2.40   X:  3.75   loss:  3.16   1X:  1.46   X2:  1.71   2goals:  5.45
+ 0.10   d.pts:   166   win:  2.63   X:  3.39   loss:  3.07   1X:  1.48   X2:  1.61   2goals:  5.72
+ 0.15   d.pts:   163   win:  2.59   X:  3.62   loss:  2.96   1X:  1.51   X2:  1.63   2goals:  5.43
+ 0.20   d.pts:   143   win:  2.86   X:  3.97   loss:  2.51   1X:  1.66   X2:  1.54   2goals:  5.96
+ 0.25   d.pts:   133   win:  3.02   X:  3.80   loss:  2.46   1X:  1.68   X2:  1.49   2goals:  6.33
+ 0.30   d.pts:   120   win:  3.16   X:  4.14   loss:  2.26   1X:  1.79   X2:  1.46   2goals:  7.06
+ 0.35   d.pts:   108   win:  3.00   X:  5.14   loss:  2.12   1X:  1.89   X2:  1.50   2goals:  6.75
+ 0.40   d.pts:    92   win:  3.54   X:  5.11   loss:  1.92   1X:  2.09   X2:  1.39   2goals:  7.08
+ 0.45   d.pts:    83   win:  3.61   X:  5.53   loss:  1.84   1X:  2.18   X2:  1.38   2goals:  6.92
+ 0.50   d.pts:    74   win:  4.11   X:  6.17   loss:  1.68   1X:  2.47   X2:  1.32   2goals:  8.22
+ 0.55   d.pts:    68   win:  4.25   X:  5.67   loss:  1.70   1X:  2.43   X2:  1.31   2goals:  7.56
+ 0.60   d.pts:    60   win:  4.29   X:  5.45   loss:  1.71   1X:  2.40   X2:  1.30   2goals:  8.57
+ 0.65   d.pts:    54   win:  4.15   X:  5.40   loss:  1.74   1X:  2.35   X2:  1.32   2goals: 10.80
+ 0.70   d.pts:    41   win:  6.83   X:  4.56   loss:  1.58   1X:  2.73   X2:  1.17   2goals: 20.50
+ 0.75   d.pts:    38   win:  6.33   X:  4.75   loss:  1.58   1X:  2.71   X2:  1.19   2goals: 19.00
+ 0.80   d.pts:    31   win:  6.20   X:  6.20   loss:  1.48   1X:  3.10   X2:  1.19   2goals: 15.50
+ 0.85   d.pts:    27   win:  5.40   X:  6.75   loss:  1.50   1X:  3.00   X2:  1.23   2goals: 13.50
+ 0.90   d.pts:    19   win:  9.50   X:  9.50   loss:  1.27   1X:  4.75   X2:  1.12   2goals: 19.00
+ 0.95   d.pts:    17   win:  8.50   X:  8.50   loss:  1.31   1X:  4.25   X2:  1.13   2goals: 17.00
+ 1.00   d.pts:    14   win: 14.00   X:  7.00   loss:  1.27   1X:  4.67   X2:  1.08   2goals:   inf
+ 1.05   d.pts:    10   win: 10.00   X: 10.00   loss:  1.25   1X:  5.00   X2:  1.11   2goals:   inf
+ 1.10   d.pts:     8   win:  8.00   X:   inf   loss:  1.14   1X:  8.00   X2:  1.14   2goals:   inf
+ 1.15   d.pts:     7   win:  7.00   X:   inf   loss:  1.17   1X:  7.00   X2:  1.17   2goals:   inf
+ 1.20   d.pts:     5   win:   inf   X:   inf   loss:  1.00   1X:   inf   X2:  1.00   2goals:   inf
+ 1.25   d.pts:     4   win:   inf   X:   inf   loss:  1.00   1X:   inf   X2:  1.00   2goals:   inf
+ 1.30   d.pts:     2   win:   inf   X:   inf   loss:  1.00   1X:   inf   X2:  1.00   2goals:   inf
+ 1.35   d.pts:     0   win:   nan   X:   nan   loss:   nan   1X:   nan   X2:   nan   2goals:   nan
+ 1.40   d.pts:     0   win:   nan   X:   nan   loss:   nan   1X:   nan   X2:   nan   2goals:   nan
+ 1.45   d.pts:     0   win:   nan   X:   nan   loss:   nan   1X:   nan   X2:   nan   2goals:   nan
+ 1.50   d.pts:     0   win:   nan   X:   nan   loss:   nan   1X:   nan   X2:   nan   2goals:   nan
+ 1.55   d.pts:     0   win:   nan   X:   nan   loss:   nan   1X:   nan   X2:   nan   2goals:   nan
